@@ -1,5 +1,5 @@
 <p align="center">
-  <h1>CaioPantoja</h1>
+  <h1>Caio Pantoja</h1>
 </p>
 
 <p>
